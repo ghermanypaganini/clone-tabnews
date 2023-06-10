@@ -1,2 +1,2 @@
 # clone-tabnews
-Implementação de um projeto para teste/estudo, usando de base o tabnews.com.br, com o curso.dev. 
+Implementação de um projeto para estudo inspirado no tabnews.com.br, através das aulas do Curso.dev.
